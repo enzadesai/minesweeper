@@ -1,7 +1,7 @@
 # Install → Play
 
 ```
-go install github.com/enzadesai/minesweeper
+go install github.com/enzadesai/minesweeper/cmd/minesweeper
 minesweeper -cols 20 -rows 20 -mines 1
 ```
 
